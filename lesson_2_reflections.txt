@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need it?
+WWhat happens when you initialize a repository? Why do you need it?
 
 It creates a git file that will log everything in the folder (repository). Then you can start using that for version control.
 
@@ -23,3 +23,10 @@ They would be helpful for comparing two different visual styles, or two differen
 How do the diagrams help you visualize the branch structure?
 
 They help you understand the flow of logic with new features and updates and how they relate.
+
+
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+You combine the code from both branches into one. We represent it that way to show how they branch apart then re-join.
