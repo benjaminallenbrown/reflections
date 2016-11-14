@@ -8,3 +8,8 @@ How is the staging area different from the working directory and the repository?
 The staging area is where you put files from the working directory that are ready to be committed to the repository. The staging area helps you prep a logical new version to commit.
 
 Version 2 test now.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You casn submit just the correct files, commit that batch, then submit any others with changes to the staging area and commit them separately.
