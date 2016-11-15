@@ -30,3 +30,8 @@ They help you understand the flow of logic with new features and updates and how
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 You combine the code from both branches into one. We represent it that way to show how they branch apart then re-join.
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually.
+
+It saves you time and confusion having to compare code when there are no conflicts.
