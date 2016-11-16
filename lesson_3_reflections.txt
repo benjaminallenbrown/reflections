@@ -6,3 +6,8 @@ If you go between multiple machines, collaborate with others, or just want to pr
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Errors could be introduced otherwise, or conflicting things from other people's contributions.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is on GitHub only; it is a different version of someone else's project. A clone is copying that project, or one locally, without attribution and without doing it on GitHub. A branch is within a repository, and it is a different branch of the code rather than a copy of the entire thing.
